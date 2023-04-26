@@ -6,12 +6,12 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here] ()
-- Live Site URL: [Add live site URL here] ()
+- Solution URL: (https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub)
+- Live Site URL: (https://startling-faun-a85da9.netlify.app/)
 
 
 ### Built with
